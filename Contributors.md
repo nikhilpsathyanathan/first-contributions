@@ -836,3 +836,5 @@
 - [Dave Gray](https://github.com/gitdagray)
 - [Guy Livni](https://github.com/GuyLivni)
 - [Nikhil](https://github.com/nikhilpsathyanathan)
+- [Make simple](https://github.com/makesimlelabs)
+
